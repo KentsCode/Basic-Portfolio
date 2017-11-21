@@ -1,0 +1,33 @@
+header {
+	background-color: #FFFFFF;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #efeee7;
+	margin: 0;
+	padding: 0;
+}
+h1 {
+	color: #FFFFFF;
+	background-color: teal;
+	margin-left: 100px;
+	margin-top: 0;
+	padding: 25px;
+}
+.about {
+	position: relative;
+	float: right;
+	padding: 30px;
+}
+.portfolio {
+	position: relative;
+	float: right;
+	padding: 30px;
+}
+.contact {
+	position: relative;
+	float: right;
+	padding: 30px;
+}
